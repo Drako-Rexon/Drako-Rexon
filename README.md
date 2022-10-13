@@ -2,17 +2,18 @@
 # Software-Creator 😉
 
 <!-- ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) -->
-<a href="https://twitter.com/drako_rexon">
-  <img align="left" alt="Anmol Agarwal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<br>
+<a href="https://twitter.com/drako_rexon" target=blank>
+  <img align="left" alt="Abhishek Kayal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> 
-<a href="https://www.linkedin.com/in/abhishek-kayal-drako/">
-  <img align="left" alt="Anmol Agarwal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/abhishek-kayal-drako/" target=blank>
+  <img align="left" alt="Abhishek Kayal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <!-- <a href="https://t.me/fineanmol">
-  <img align="left" alt="Anmol Agarwal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="left" alt="Abhishek Kayal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a> -->
-<a href="https://www.instagram.com/drako.rexon/">
-  <img align="left" alt="Anmol Agarwal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/drako_rexon/" target=blank>
+  <img align="left" alt="Abhishek Kayal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 <!-- **Drako-Rexon/Drako-Rexon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
