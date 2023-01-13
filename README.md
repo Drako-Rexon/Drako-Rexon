@@ -2,7 +2,7 @@
 # Software-Creator 😉
 
 <!-- ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) -->
-<br/>
+<br>
 <a href="https://www.linkedin.com/in/abhishek-kayal-drako/" target=blank>
   <img align="left" alt="Abhishek Kayal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -19,8 +19,8 @@
 <!-- **Drako-Rexon/Drako-Rexon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-<br/>
-<br/>
+<!-- <br/>
+<br/> -->
 - 🔭 I’m currently working on **SelF LearninG**
 - 🌱 I’m currently learning **How to live a life**
 - 👯 i am looking for collaboration in **OpEn SoUrCe**
