@@ -2,7 +2,7 @@
 # Software-Creator 😉
 
 <!-- ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) -->
-<br>
+<br/>
 <a href="https://www.linkedin.com/in/abhishek-kayal-drako/" target=blank>
   <img align="left" alt="Abhishek Kayal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -19,8 +19,8 @@
 <!-- **Drako-Rexon/Drako-Rexon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <!-- Here are some ideas to get you started: -->
-<br>
-<br>
+<br/>
+<br/>
 - 🔭 I’m currently working on **SelF LearninG**
 - 🌱 I’m currently learning **How to live a life**
 - 👯 i am looking for collaboration in **OpEn SoUrCe**
@@ -33,24 +33,24 @@
 
 ### Skill I AcQuireD:
 <!-- C++ -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/cpp/cpp.png"></code>
 <!-- JavaScript -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/javascript/javascript.png"></code>
 <!-- NodeJS -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/nodejs/nodejs.png"></code>
 <!-- Dart -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/dart/dart.png"></code>
 <!-- Flutter -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/flutter/flutter.png"></code>
 <!-- FireBase -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/firebase/firebase.png"></code>
 <!-- Android -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/android/android.png"></code>
 <!-- MongoDB -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/mongodb/mongodb.png"></code>
 <!-- MySQL -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/mysql/mysql.png"></code>
 <!-- Git -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/git/git.png"></code>
 <!-- GitHub -->
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/27902ec9ccc699a5ab02879344ba91a2c1033f6c/topics/github/github.png"></code>
