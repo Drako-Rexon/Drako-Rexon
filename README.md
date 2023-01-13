@@ -25,7 +25,6 @@
 #
 ### Status
 - 🔭 I’m currently working on **SelF LearninG**
-- 🌱 I’m currently learning **How to live a life**
 - 👯 i am looking for collaboration in **OpEn SoUrCe**
 - 💬 Ask me about **DSA (C++)**, **Node**, **JavaScript**, **App Dev** and **Dart**
 - 😄 NickName: Drako Rexon
