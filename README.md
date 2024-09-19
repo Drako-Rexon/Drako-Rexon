@@ -57,9 +57,9 @@
   <img alt="html5" src="https://img.shields.io/badge/-Arduino-169499?style=flat-square&logo=arduino&logoColor=white" />
 </p>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Drako-Rexon&show_icons=true&theme=gotham" alt="Drako-Rexon" />
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drako-Rexon&show_icons=true&theme=gotham" alt="Drako-Rexon" />
 
-![](https://raw.githubusercontent.com/Drako-Rexon/github-stats-transparent/output/generated/languages.svg)
+![](https://raw.githubusercontent.com/Drako-Rexon/github-stats-transparent/output/generated/languages.svg) -->
 
 | <a href="https://github.com/Drako-Rexon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Drako-Rexon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Drako's github stats" /></a> | <a href="https://github.com/Drako-Rexon/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako-Rexon&layout=compact&theme=buefy&hide_border=true" /></a> |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
