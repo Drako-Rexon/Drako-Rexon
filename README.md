@@ -42,7 +42,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-blue?logo=cplusplus" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffa611?style=flat-square&logo=firebase&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PostgresSQL" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="PostgresSQL" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/GraphQL-E10098?logo=GraphQL&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-00b6ee?style=flat-square&logo=docker&logoColor=white" />
