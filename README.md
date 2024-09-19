@@ -30,7 +30,7 @@
 - 😄 NickName: Drako Rexon
 - 💬 I am happy to help; if ( (I can) { return help; })
 
-📄 Know about my work & experiences [My Resume](https://docs.google.com/document/d/1ALS4ANqZhA_vQNbhkTPUaVqbrOnN0mSs266vuSPZsIU/edit?usp=sharing)
+📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1oSdSYnzimo-2IekZvmLJrpIlwOWr2MzY/view?usp=sharing)
 
 
 ### Skill I AcQuireD:
