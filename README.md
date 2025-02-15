@@ -9,7 +9,7 @@
 <a href="https://www.instagram.com/drako_rexon/" target=blank>
   <img align="left" alt="Abhishek Kayal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://t.me/Drako_Rexon">
+<a href="https://t.me/DrakoRexon">
   <img align="left" alt="Abhishek Kayal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://twitter.com/drako_rexon" target=blank>
@@ -30,7 +30,7 @@
 - 😄 NickName: Drako Rexon
 - 💬 I am happy to help; if ( (I can) { return help; })
 
-📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1oSdSYnzimo-2IekZvmLJrpIlwOWr2MzY/view?usp=sharing)
+📄 Know about my work & experiences [My Resume](https://drive.google.com/file/d/1Vsp7UDyQHCgwf6SQU_xpvVbkvKVNuXm_/view?usp=sharing)
 
 
 ### Skill I AcQuireD:
@@ -54,7 +54,9 @@
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-Arduino-169499?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="arduino" src="https://img.shields.io/badge/-Arduino-169499?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="nestjs" src="https://img.shields.io/badge/-NestJS-ea2857?style=flat-square&logo=nestjs&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Drako-Rexon&show_icons=true&theme=gotham" alt="Drako-Rexon" />
