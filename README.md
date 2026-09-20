@@ -3,18 +3,23 @@
 
 <!-- ![]( https://visitor-badge.glitch.me/badge?page_id=fineanmol ) -->
 <br>
-<a href="https://www.linkedin.com/in/abhishek-kayal-drako/" target=blank>
-  <img align="left" alt="Abhishek Kayal's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/drako_rexon/" target=blank>
-  <img align="left" alt="Abhishek Kayal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://t.me/DrakoRexon">
-  <img align="left" alt="Abhishek Kayal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://twitter.com/drako_rexon" target=blank>
-  <img align="left" alt="Abhishek Kayal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> 
+<p align="left">
+  <a href="https://www.linkedin.com/in/abhishek-kayal-drako/" target="_blank">
+    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/drako_rexon/" target="_blank">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://t.me/DrakoRexon" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" alt="Telegram" width="28" height="28" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/drako_rexon" target="_blank">
+    <img src="https://cdn.simpleicons.org/twitter/1DA1F2" alt="Twitter" width="28" height="28" />
+  </a>
+</p>
 
 <!-- **Drako-Rexon/Drako-Rexon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
@@ -60,9 +65,15 @@
 
 <p align="center">
   <a href="https://github.com/Drako-Rexon">
-    <img src="https://github-readme-stats.vercel.app/api?username=Drako-Rexon&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Drako's github stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=Drako-Rexon&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Drako's github stats" />
   </a>
   <a href="https://github.com/Drako-Rexon">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drako-Rexon&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Drako-Rexon&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Drako-Rexon">
+    <img src="https://streak-stats.demolab.com?user=Drako-Rexon&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
