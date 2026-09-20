@@ -1,7 +1,16 @@
 ### Hi there, I'm Abhishek Kayal (Drako Rexon) 👋
 # Software Engineer | Fintech & Full-Stack Developer 🚀
 
-<p align="left">
+<!-- Hero CTA: Portfolio -->
+<p align="center">
+  <a href="https://drako.co.in" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_VISIT_MY_LIVE_PORTFOLIO-drako.co.in-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" height="48" alt="Visit My Live Portfolio" />
+  </a>
+  <br>
+  <sub>⚡ <b>Click above to explore live interactive projects, demos & experience at drako.co.in</b> ⚡</sub>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/abhishek-kayal-drako/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -16,9 +25,6 @@
   </a>
   <a href="https://t.me/DrakoRexon" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://drako.co.in" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-drako.co.in-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
