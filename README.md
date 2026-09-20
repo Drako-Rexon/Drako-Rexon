@@ -94,6 +94,7 @@
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-169499?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
 </p>
 
 ---
@@ -172,6 +173,17 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-005571?style=flat-square&logo=fastapi&logoColor=white" />
+
+#### 🔹 **C++ Embedded Developer** — SpaceStation Automation Pvt. Ltd. *(Nov 2021 – Jul 2022)*
+- Worked on Embedded Systems using C++ with ESP32 and Arduino, developing basic IoT solutions and multi-layer device communication.
+- Built a smart irrigation and rain detection system with OTA updates, integrating sensors and real-time data handling.
+- Explored hardware components like OLED displays, sensors, and actuator systems while understanding microcontroller architectures and firmware optimization.
+- **Skills & Tools:**
+  <br>
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-169499?style=flat-square&logo=arduino&logoColor=white" />
+  <img alt="ESP32" src="https://img.shields.io/badge/-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img alt="Embedded Systems" src="https://img.shields.io/badge/-Embedded%20Systems-005571?style=flat-square&logo=microchip&logoColor=white" />
 
 ---
 
