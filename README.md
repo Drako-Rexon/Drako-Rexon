@@ -61,6 +61,16 @@
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-169499?style=flat-square&logo=arduino&logoColor=white" />
   <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-ea2857?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Spring" src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <img alt="Hibernate" src="https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white" />
+  <img alt="Kafka" src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" />
+  <img alt="Apache Tomcat" src="https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black" />
+  <img alt="Apache Maven" src="https://img.shields.io/badge/-Apache%20Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
 </p>
 
 <p align="center">
